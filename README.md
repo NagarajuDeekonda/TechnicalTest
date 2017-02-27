@@ -1,7 +1,10 @@
 # TechnicalTest
 JPMorganTest
 
-Please use java 1.8 version to run this application
+Please use java latestversion to run this application
+
+
+
 • Instruction: An instruction to buy or sell 
 • Entity: A financial entity whose shares are to be bought or sold 
 • Instruction Date: Date on which the instruction was sent to JP Morgan by various clients
